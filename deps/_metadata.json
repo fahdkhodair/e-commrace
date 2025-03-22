@@ -1,0 +1,91 @@
+{
+  "hash": "2acacc16",
+  "configHash": "6d67e0e6",
+  "lockfileHash": "5c4b6841",
+  "browserHash": "efd58392",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "2b288e97",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "94b13368",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "5d9dcfcc",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "3877f52b",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "2b137ae0",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "018af0dd",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "f9e4992e",
+      "needsInterop": false
+    },
+    "swiper/react": {
+      "src": "../../swiper/swiper-react.mjs",
+      "file": "swiper_react.js",
+      "fileHash": "e7a0f040",
+      "needsInterop": false
+    },
+    "swiper/modules": {
+      "src": "../../swiper/modules/index.mjs",
+      "file": "swiper_modules.js",
+      "fileHash": "c10e00b2",
+      "needsInterop": false
+    },
+    "prop-types": {
+      "src": "../../prop-types/index.js",
+      "file": "prop-types.js",
+      "fileHash": "a7880815",
+      "needsInterop": true
+    },
+    "next/link": {
+      "src": "../../next/link.js",
+      "file": "next_link.js",
+      "fileHash": "2823f93a",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-5AS4NL4J": {
+      "file": "chunk-5AS4NL4J.js"
+    },
+    "chunk-OX56QJAV": {
+      "file": "chunk-OX56QJAV.js"
+    },
+    "chunk-RUPNRBO7": {
+      "file": "chunk-RUPNRBO7.js"
+    },
+    "chunk-ODHGDB5R": {
+      "file": "chunk-ODHGDB5R.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
